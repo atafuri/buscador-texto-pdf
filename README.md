@@ -99,5 +99,17 @@ Mais do que um código, este projeto representa uma ideia:
 Transformar tarefas manuais em fluxos automatizados
 E compartilhar soluções reais com o mundo
 
+📥 Download
+
+Para baixar a versão pronta para uso:
+
+1. Acesse a aba **Releases** deste repositório
+2. Baixe o arquivo `.zip` da versão mais recente
+3. Extraia os arquivos
+4. Execute o `.exe`
+
+👉 Link direto:
+https://github.com/atafuri/buscador-texto-pdf/releases
+
 Criado por Eng. Allan Tafuri
 Do Caos ao Fluxo
