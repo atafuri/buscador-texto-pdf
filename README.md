@@ -41,7 +41,7 @@ Selecione a pasta com os PDFs
 Escolha onde salvar o resultado
 Clique em Iniciar
 📁 Estrutura do projeto
-pdf-keyword-finder/
+buscador-texto-pdf/
 │
 ├── app.py
 ├── app.spec
