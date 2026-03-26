@@ -14,6 +14,7 @@ Engenheiros
 Analistas
 Profissionais administrativos
 Qualquer pessoa que lide com grande volume de documentos
+
 ⚙️ Funcionalidades
 
 ✔ Busca por múltiplas palavras-chave
@@ -23,7 +24,6 @@ Qualquer pessoa que lide com grande volume de documentos
 ✔ Automação rápida e eficiente
 
 🧠 Origem
-
 Este projeto faz parte do movimento:
 
 Do Caos ao Fluxo
@@ -40,6 +40,7 @@ Insira as palavras-chave (separadas por ;)
 Selecione a pasta com os PDFs
 Escolha onde salvar o resultado
 Clique em Iniciar
+
 📁 Estrutura do projeto
 buscador-texto-pdf/
 │
@@ -50,8 +51,8 @@ buscador-texto-pdf/
 ├── build/
 ├── dist/
 └── release_v1/
-⚠️ Aviso de segurança
 
+⚠️ Aviso de segurança
 Ao executar o programa, o Windows pode exibir um alerta:
 
 👉 Isso acontece porque o executável não possui assinatura digital.
@@ -60,29 +61,30 @@ Para executar:
 
 Clique em "Mais informações"
 Depois em "Executar assim mesmo"
+
 💡 Tecnologias utilizadas
 Python
 PyInstaller
 Tkinter
 Pandas
 PyMuPDF / PDFPlumber
-📊 Saída
 
+📊 Saída
 O programa gera um arquivo Excel contendo:
 
 Nome do arquivo
 Palavra encontrada
 Ocorrências
 Informações organizadas para análise
+
 📬 Contato
 LinkedIn: https://www.linkedin.com/in/allantafuri
 Email: allantafuri@outlook.com
-🤝 Contribuição
 
+🤝 Contribuição
 Sinta-se à vontade para sugerir melhorias, abrir issues ou contribuir com o projeto.
 
 📌 Licença
-
 Este projeto pode ser utilizado para fins de estudo e aplicação prática.
 
 🚀 Próximos passos
@@ -90,8 +92,8 @@ Interface mais avançada
 Versão com instalador
 Integração com outras automações
 Expansão do movimento Do Caos ao Fluxo
-🧭 Visão
 
+🧭 Visão
 Mais do que um código, este projeto representa uma ideia:
 
 Transformar tarefas manuais em fluxos automatizados
