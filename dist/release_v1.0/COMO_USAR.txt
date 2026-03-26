@@ -1,0 +1,12 @@
+COMO USAR
+
+1. Abra o programa
+2. Digite as palavras-chave (separadas por ;)
+3. Selecione a pasta com os PDFs
+4. Escolha a pasta de saída
+5. Clique em "Iniciar"
+
+O resultado será salvo em Excel.
+
+Dica:
+Use palavras simples para melhores resultados.

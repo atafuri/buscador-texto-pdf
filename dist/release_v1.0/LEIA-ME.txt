@@ -1,0 +1,30 @@
+BUSCADOR DE TEXTO EM PDF
+
+Este programa faz parte do movimento:
+"Do Caos ao Fluxo"
+
+Função:
+Buscar palavras-chave dentro de múltiplos arquivos PDF
+e gerar um relatório em Excel.
+
+⚠ Aviso de segurança:
+Ao executar, o Windows pode exibir um alerta.
+Isso acontece porque o programa não possui assinatura digital.
+
+Para executar:
+Clique em "Mais informações" → "Executar assim mesmo"
+
+Código-fonte disponível no GitHub.
+
+Desenvolvido por Eng. Allan Tafuri
+
+CONTATO
+LinkedIn:
+https://www.linkedin.com/in/allantafuri/
+
+Email:
+allantafuri@outlook.com
+
+Projeto parte do movimento:
+#Do Caos ao Fluxo
+
